@@ -1,0 +1,1 @@
+Martedì 17 Novembre: Dimostrazioni per induzione. Ogni ordine parziale su insieme finito ammette un minimale. Ogni ordine parziale su un insieme finito ammette una estensione totale. Principio di induzione completa. Principio del minimo numero. 
