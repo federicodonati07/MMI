@@ -1,0 +1,1 @@
+Martedì 24 Novembre: Dimostrazioni per induzione di proprietà combinatorie. Problemi dei polletti (problema di Frobenius). Piastrellamenti. Rinforzo dell'ipotesi induttiva.
